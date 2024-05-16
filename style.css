@@ -54,7 +54,7 @@
         margin: 0;
         position: absolute;
         z-index: 1;
-        background: snow ;
+        background: rgba(255, 250, 250, 0.272);
         padding: 10px;
         top: -15px;
         text-align: center;
